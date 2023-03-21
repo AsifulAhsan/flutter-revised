@@ -1,6 +1,6 @@
 # flutter_revised
 
-A new Flutter project.
+Revising the flutter basics..
 
 ## Getting Started
 
